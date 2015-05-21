@@ -1,0 +1,39 @@
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.azure-mobile.electricboogaloo" version="1.0.0">
+  <name>Electric Boogaloo</name>
+  <description>Roberto should infiltrate to the Electric Boogaloo, a bar managed by the local mafia Villa Viciosa in order to solve the murder of his wife. To achieve his mission, shall be prepared in dark arts of "Palo mango", dancing tasty and reach to the end of salsa contest in the bar that names this comic.Roberto López will have to infiltrate in Electric Boogaloo, a bar managed by the mob from ‘Villa Viciosa’, so he can solve the murder of his ex-wife. To achieve his mission, he will prepare in the dark art of ‘Palo de Mango’, becoming the best salsa dancer in town.</description>
+  <author href="http://www.jenofonte.co/" email=" eliza@jenofonte.co">Jenofonte S.A.S Team</author>
+  <content src="index.html"/>
+  <preference name="phonegap-version" value="3.6.3"/>
+  <preference name="permissions" value="none"/>
+  <preference name="orientation" value="default"/>
+  <preference name="target-device" value="universal"/>
+  <preference name="fullscreen" value="true"/>
+  <preference name="webviewbounce" value="true"/>
+  <preference name="prerendered-icon" value="true"/>
+  <preference name="stay-in-webview" value="false"/>
+  <preference name="ios-statusbarstyle" value="black-opaque"/>
+  <preference name="detect-data-types" value="true"/>
+  <preference name="exit-on-suspend" value="false"/>
+  <preference name="show-splash-screen-spinner" value="true"/>
+  <preference name="auto-hide-splash-screen" value="true"/>
+  <preference name="disable-cursor" value="false"/>
+  <preference name="android-minSdkVersion" value="7"/>
+  <preference name="android-installLocation" value="auto"/> 
+  <gap:plugin name="org.apache.cordova.file" version="1.3.1" />
+  <gap:plugin name="com.msopentech.azure-mobile-services" version="0.1.2" />
+  <icon src="icon.png"/>
+  <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
+  <icon src="www/res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:qualifier="mdpi"/>
+  <icon src="www/res/icon/android/icon-72-hdpi.png" gap:platform="android" gap:qualifier="hdpi"/>
+  <icon src="www/res/icon/android/icon-96-xhdpi.png" gap:platform="android" gap:qualifier="xhdpi"/>
+  <icon src="www/res/icon/blackberry/icon-80.png" gap:platform="blackberry"/>
+  <icon src="www/res/icon/blackberry/icon-80.png" gap:platform="blackberry" gap:state="hover"/>
+  <icon src="www/res/icon/ios/icon-57.png" gap:platform="ios" width="57" height="57"/>
+  <icon src="www/res/icon/ios/icon-72.png" gap:platform="ios" width="72" height="72"/>
+  <icon src="www/res/icon/ios/icon-57-2x.png" gap:platform="ios" width="114" height="114"/>
+  <icon src="www/res/icon/ios/icon-72-2x.png" gap:platform="ios" width="144" height="144"/>
+  <icon src="www/res/icon/webos/icon-64.png" gap:platform="webos"/>
+  <icon src="www/res/icon/windows-phone/icon-48.png" gap:platform="winphone"/>
+  <icon src="www/res/icon/windows-phone/icon-173-tile.png" gap:platform="winphone" gap:role="background"/>
+  <access origin="*"/>
+</widget>

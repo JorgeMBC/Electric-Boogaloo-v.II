@@ -1,0 +1,134 @@
+[0430/174907:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0430/174908:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0430/174911:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0430/174914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/174914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/174914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/174916:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/ingles.html?mode=internal (4)
+[0430/174919:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/ingles.html?mode=internal (37)
+[0430/174919:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0430/174923:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/174923:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/174923:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/180914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/180914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/180914:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/181129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/181129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/181129:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0430/181429:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181429:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181429:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181429:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181456:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181456:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181456:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.d.seekInTool (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/edge.authoring.5.0.1.min.js:74:344)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:23)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181456:INFO:CONSOLE(42)] "TypeError: Cannot read property 'style' of undefined
+    at Object.EdgeDOM.updateOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:38:53)
+    at Object.EdgeDOM.resumeCanvasOverlay (http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js:34:198)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:61", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/edge_includes/an.canvas.overlay.min.js (42)
+[0430/181528:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0430/181537:ERROR:ipc_channel_win.cc(132)] pipe error: 109
+[0501/092329:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/092331:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/092333:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/092335:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/092335:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/092335:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/092337:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/ingles.html?mode=internal (4)
+[0501/092338:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot call method 'appendChild' of undefined", source: v8/appCss (1)
+[0501/092339:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/ingles.html?mode=internal (37)
+[0501/092339:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0501/092344:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/092344:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/092344:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/095519:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/095519:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/095519:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/101951:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/101951:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/101951:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/174526:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/174526:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/174526:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/174527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/174527:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/174528:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/english/ingles.html?mode=internal (4)
+[0504/174528:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0504/174528:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/english/ingles.html?mode=internal (37)
+[0504/174536:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/174536:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/181344:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/181344:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/181344:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/181345:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/espanol.html?mode=internal (4)
+[0504/181345:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/espanol.html?mode=internal (37)
+[0504/181352:INFO:CONSOLE(160)] "RETURN EARLY _ no init", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/edge_includes/edge.authoring.5.0.1.min.js (160)
+[0504/181352:INFO:CONSOLE(1)] "TypeError: Cannot set property 'an_originalId' of undefined
+    at Function.d.data (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/edge_includes/edge.5.0.1.min.js:74:145)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:25)
+    at <anonymous>:0:59", source:  (1)
+[0504/181450:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0504/184514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/184514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/184514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/184514:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184514:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184516:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/english/ingles.html?mode=internal (4)
+[0504/184516:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/english/ingles.html?mode=internal (37)
+[0504/184516:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0504/184523:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184523:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184701:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0504/184701:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0504/184710:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0504/184710:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/espanol.html?mode=internal (4)
+[0504/184710:INFO:CONSOLE(37)] "Uncaught TypeError: Object #<Object> has no method 'initialize'", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/espanol/espanol.html?mode=internal (37)
+[0504/184733:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0505/181243:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0505/181243:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0505/181244:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0505/181244:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0505/181244:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0505/181245:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/english/ingles.html?mode=internal (4)
+[0505/181245:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0505/181253:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0505/181253:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2

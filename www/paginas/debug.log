@@ -1,0 +1,86 @@
+[0324/162208:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0324/162208:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0324/162209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162209:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162210:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0324/162218:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162218:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162335:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0324/162337:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0324/162337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162337:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162337:INFO:CONSOLE(126)] "EXX = TypeError: Cannot call method 'getStage' of undefined
+    at Object.d.$$ (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:53:52)
+    at Object.EdgeDOM.queryElementStyles (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:118:346)
+    at Object.EdgeDOM.refreshCacheBatch (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:117:444)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:59", source: http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js (126)
+[0324/162337:INFO:CONSOLE(1)] "TypeError: Cannot call method 'getStage' of undefined
+    at Object.d.$$ (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:53:52)
+    at Object.EdgeDOM.queryElementAttributes (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:126:216)
+    at Object.EdgeDOM.refreshCacheBatch (http://127.0.0.1:54321/_DRIVE_D_EVIRD_/Jorge/ElectricBoogaloo%20App/paginas/edge_includes/edge.authoring.5.0.1.min.js:117:499)
+    at eval (eval at <anonymous> (unknown source), <anonymous>:1:21)
+    at <anonymous>:0:59", source:  (1)
+[0324/162416:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0324/162419:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0324/162615:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162615:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0324/162744:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163514:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163515:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163515:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163515:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163516:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/00.html?mode=internal (4)
+[0501/163517:INFO:CONSOLE(0)] "event.returnValue is deprecated. Please use the standard event.preventDefault() instead.", source:  (0)
+[0501/163524:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163524:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163524:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163526:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0501/163539:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163540:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/02.html?mode=internal (4)
+[0501/163551:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:45), <anonymous>:1:7)
+    at about:blank:0:45", source:  (1)
+[0501/163554:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163555:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/03.html?mode=internal (4)
+[0501/163556:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163556:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163556:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(264)] Error fetching PAC URL from DHCP: 2
+[0501/163605:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163609:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163610:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/04.html?mode=internal (4)
+[0501/163620:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163623:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163624:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/05.html?mode=internal (4)
+[0501/163637:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163640:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163641:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/06.html?mode=internal (4)
+[0501/163650:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163653:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163654:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/07.html?mode=internal (4)
+[0501/163705:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
+[0501/163708:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[0501/163709:INFO:CONSOLE(4)] "The value for key "maximum-scale" is out of bounds and the value has been clamped.", source: http://127.0.0.1:54321/_DRIVE_E_EVIRD_/Documents/Jenofonte/Electric%20Bogaloo/english/paginas/08.html?mode=internal (4)
+[0501/163723:INFO:CONSOLE(1)] "ReferenceError: EdgeDOM is not defined
+    at eval (eval at <anonymous> (about:blank:0:47), <anonymous>:1:7)
+    at about:blank:0:47", source:  (1)
